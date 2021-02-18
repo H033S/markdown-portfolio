@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[C# & Python](https://res.cloudinary.com/de4rvmslk/image/upload/f_auto,q_auto,w_1440//img/python-vs-c-_cover-duz-y-2x.jpg)
